@@ -1,0 +1,5 @@
+1 11-Apr-2009 100 Tuition fee
+2 20-Apr-2009 250 Rent house
+3 30-Apr-2009 200 Food4 | 10-spr | 3 | 4
+4  42  3  l
+5  10-Apr-2025  40  jfd
